@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Release">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../C_plus_project/javaCdll/x64/Release" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
